@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a passionate Full Stack Web Developer (MERN Stack)  <br>💻 Skilled in building responsive and user-friendly web applications  <br>📚 Currently improving my Data Structures & Algorithms (DSA)  <br>⚡ I love solving problems and learning new technologies  <br><br>🎯 Goal: To become a professional Full Stack Developer and crack top tech companies  <br><br>🔥Tech I work with:<br>- Frontend: HTML, CSS, JavaScript, React.js, Tailwind<br>- Backend: Node.js, Express.js<br>- Database: MongoDB, SQL<br>- Tools: Git, GitHub, REST APIs, Postman Redux Toolkit</p>
+<p align="left">✨ I am a passionate Full Stack Web Developer (MERN Stack)  <br>💻 Skilled in building responsive and user-friendly web applications  <br>📚 Currently improving my Data Structures & Algorithms (DSA)  <br>⚡ I love solving problems and learning new technologies  <br><br>🎯 Goal: To become a professional Full Stack Developer and crack top tech companies  <br><br>🔥Tech I work with:<br>- Frontend: HTML, CSS, JavaScript, Typescript, React.js, Tailwind<br>- Backend: Node.js, Express.js<br>- Database: MongoDB, Mongoose, mySQL<br>- Tools: Git, GitHub, REST APIs, Postman Redux Toolkit</p>
 
 ###
 
